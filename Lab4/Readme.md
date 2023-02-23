@@ -81,12 +81,19 @@ Optional: Another example you can try is from [PyTorch](https://pytorch.org/tuto
 Reflect on the following questions:
 
 1. For your favorite prototyped interaction that you have thought of so far, reflect upon how a camera connected to your Pi could be useful.
+
 Answer: The camera could be used to do the people detection. For example, in the chair or shopping cart robots we sketched in the last lab, the camera could detect the object and avoid them and follow the target people. 
+
 2. What issues do you foresee with this setup? 
+
 Answer: The computational power of raspi is not sufficient for large image processing. We probably need to send the image back to computer to further process it in the future. 
+
 3. How is the temperature? How is the speed? How is the connection?
+
 Answer: The temperature is a little bit high, the processing speed is slow on VNC, and the connection is not stable. 
+
 4. How is the view? Would it capture what you might need to see for your prototyped interaction (in question 1)?
+
 Answer: The view is limited. If we want to implement the functions and robots we mention in question 1, we need to set up carefully and specifically for thsi camera or we need to switch to a camera with larger detection view
 
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
