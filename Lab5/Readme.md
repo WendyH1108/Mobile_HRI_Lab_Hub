@@ -1,5 +1,6 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
+yh374, nt322, ck766, lz489
 
 Now, let's control our robots to make them move intuitively. 
 
