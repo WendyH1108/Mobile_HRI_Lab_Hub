@@ -1,6 +1,6 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
-
+yh374, nt322, lz489, ck766
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
