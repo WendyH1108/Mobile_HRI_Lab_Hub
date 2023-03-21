@@ -104,3 +104,5 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 3. A video showing your robot perform the movements in 2.
 4. Reflect upon your design, what would you do differently?
 
+#### Reflection
+I think the most difficult part of our design is figuring out the wiring. When we tried to make the robot move, Odrive would easily be disconnected because of the touch with metal and loose portal connection, etc. We realized that if we really want to put our robot into use, we need to consider all the possible movements and situations and make sure our robot could still work under these circumstances. Next time, we will draw the detailed design and placement of all components of our robot so that we would not waste time on debugging and fixing.
